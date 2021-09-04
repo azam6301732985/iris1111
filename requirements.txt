@@ -1,6 +1,6 @@
 Flask==1.1.2
 gunicorn==20.1.0
-tsdangerous==1.1.0
+itsdangerous==1.1.0
 Jinja2==2.11.2
 joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
 kiwisolver==1.2.0
